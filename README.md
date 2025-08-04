@@ -1,4 +1,4 @@
-###frutgam3
+###Snake
 
 Not grid-based, analog, snake game with a control scheme that has some complexity to it <a href="monkyyy.itch.io/snake">  monkyyy.itch.io/snake </a>
 
